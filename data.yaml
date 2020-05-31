@@ -1,0 +1,10 @@
+repositorios:
+  - terraform
+  - cicd
+  - infra
+---
+Usuarios:
+  - paco
+  - manu
+  - luis
+  - ana
